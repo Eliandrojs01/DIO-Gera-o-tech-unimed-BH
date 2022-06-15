@@ -1,2 +1,2 @@
-# DIO-Gera-o-tech-unimed-BH
-Bootcamp Geração Tech Unimed BH - DIO
+# DIO - Geraçõa Tech Unimed-BH
+Repositório destinado ao Bootcamp Geração Tech Unimed BH - DIO
